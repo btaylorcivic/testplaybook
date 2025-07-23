@@ -18,7 +18,7 @@ Any cluster of alerts (malware detections, suspicious authentication, lateral mo
 - **Prerequisites:**  
   - CrowdStrike → SIEM/SOAR integration  
   - Pre‑configured thresholds & playbook bindings  
-  - Rostered SOC & IR teams on‑call  
+  - Rostered teams on‑call or needs to help
   - Access to logging, identity, and network controls
 
 ---
