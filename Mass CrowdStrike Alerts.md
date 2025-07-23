@@ -23,7 +23,7 @@ Any cluster of alerts (malware detections, suspicious authentication, lateral mo
 
 ---
 
-## 3. Roles & Responsibilities
+## 3. Roles & Responsibilities (update to something that we can use)
 
 | Role                  | Responsibilities                                    |
 |-----------------------|-----------------------------------------------------|
@@ -138,5 +138,5 @@ Any cluster of alerts (malware detections, suspicious authentication, lateral mo
 ## 5. Metrics & Reporting
 - **MTTD (Mean Time to Detect):** Target ≤ 15 min  
 - **MTTR (Mean Time to Remediate):** Target ≤ 2 hrs  
-- **False‑Positive Rate:** Track and tune for SOC efficiency  
+- **False‑Positive Rate:** Track and tune for efficiency  
 - **Lessons‑Learned Review:** Complete within 5 business days  
