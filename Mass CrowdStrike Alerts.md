@@ -22,7 +22,7 @@ Any cluster of alerts (malware detections, suspicious authentication, lateral mo
   - Access to logging, identity, and network controls
 
 ---
-![alt text](image.png)
+
 ## 3. Roles & Responsibilities
 
 | Role                  | Responsibilities                                    |
